@@ -22,7 +22,7 @@ public class OwnObjectClass {
      public static void SetTheTime() {
      //To be able to change the time it says to the time it actually currently is
      
-     
+      
      
      
      }
